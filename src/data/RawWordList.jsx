@@ -35,7 +35,7 @@ const wordSet = {
   acquitted: "Declared not guilty of a criminal charge.",
   across: "From one side to the other of something.",
   address:
-    "The particulars of the place where someone lives or an organization is situated.",
+    "The particulars of the place where someone lives or an organisation is situated.",
   addressed: "Spoken to or written to someone.",
   adequate: "Satisfactory or acceptable in quality or quantity.",
   advantage:
@@ -84,7 +84,7 @@ const wordSet = {
   among: "Situated more or less centrally in relation to several other things.",
   amount: "A quantity of something, typically the total of a thing or things.",
   analysis: "Detailed examination of the elements or structure of something.",
-  analyze:
+  analyse:
     "Examine methodically and in detail the constitution or structure of something.",
   angel: "A spiritual being believed to act as a servant or messenger of God.",
   angle:
@@ -100,7 +100,7 @@ const wordSet = {
   anxious: "Experiencing worry, unease, or nervousness.",
   apartment:
     "A set of rooms forming an individual residence, typically on one floor and within a larger building.",
-  apologize: "Express regret for something that one has done wrong.",
+  apologise: "Express regret for something that one has done wrong.",
   apology: "A regretful acknowledgment of an offense or failure.",
   apparatus:
     "The technical equipment or machinery needed for a particular activity or purpose.",
@@ -110,7 +110,7 @@ const wordSet = {
   appetite: "A natural desire to satisfy a bodily need, especially for food.",
   application: "A formal request to an authority for something.",
   apply: "Make a formal request or effort toward something.",
-  appreciate: "Recognize the full worth of something.",
+  appreciate: "Recognise the full worth of something.",
   appreciation:
     "Recognition and enjoyment of the good qualities of someone or something.",
   approach: "Come near or nearer to something in distance or time.",
@@ -132,7 +132,7 @@ const wordSet = {
   assistance: "Help or support.",
   assistant: "A person who helps in particular work.",
   associate: "Connect someone or something with something else in one's mind.",
-  association: "A group of people organized for a joint purpose.",
+  association: "A group of people organised for a joint purpose.",
   ate: "Past tense of eat.",
   atheist: "A person who disbelieves in the existence of God or gods.",
   athletic: "Physically strong, fit, and active.",
@@ -151,7 +151,6 @@ const wordSet = {
   avenue:
     "A broad road in a town or city, typically having trees at regular intervals along its sides.",
   awful: "Very bad or unpleasant.",
-  awhile: "For a short time.",
   awkward: "Causing or feeling embarrassment or inconvenience.",
   axle: "A rod or spindle passing through the center of a wheel or group of wheels.",
   bachelor: "An unmarried man.",
@@ -270,7 +269,7 @@ const wordSet = {
   cigarette: "A slender tube of finely cut tobacco for smoking.",
   circumstance:
     "A fact or condition connected with or relevant to an event or action.",
-  citizen: "A legally recognized subject or national of a state.",
+  citizen: "A legally recognised subject or national of a state.",
   climbed: "Went up or ascended something.",
   cloth: "Woven or felted fabric made from wool, cotton, or similar fibers.",
   clothes: "Items worn to cover the body.",
@@ -357,7 +356,7 @@ const wordSet = {
   courtesy: "The showing of politeness in one's attitude and behavior.",
   criticism:
     "The expression of disapproval of someone or something based on perceived faults or mistakes.",
-  criticize: "Indicate the faults of someone or something.",
+  criticise: "Indicate the faults of someone or something.",
   crystal:
     "A solid material whose constituents are arranged in a highly ordered structure.",
   curiosity: "A strong desire to know or learn something.",
@@ -439,7 +438,7 @@ const wordSet = {
     "The practice of training people to obey rules or a code of behavior.",
   discover:
     "Find something or someone unexpectedly or in the course of a search.",
-  discriminate: "Recognize a distinction; differentiate.",
+  discriminate: "Recognise a distinction; differentiate.",
   disease: "A disorder of structure or function in a human, animal, or plant.",
   dispensable: "Able to be replaced or done without.",
   dissatisfied: "Not content or happy with something.",
@@ -456,7 +455,7 @@ const wordSet = {
   doubt: "A feeling of uncertainty or lack of conviction.",
   dough: "A thick, malleable mixture of flour and liquid, used for baking.",
   doughty: "Brave and persistent.",
-  dozen: "A group or set of twelve.",
+  dosen: "A group or set of twelve.",
   drunkenness: "The state of being intoxicated with alcohol.",
   dumbbell: "A short bar with a weight at each end, used for exercise.",
   dyed: "Colored or stained.",
@@ -488,7 +487,7 @@ const wordSet = {
   emperor:
     "A sovereign ruler of great power and rank, especially one ruling an empire.",
   emphasis: "Special importance, value, or prominence given to something.",
-  emphasize:
+  emphasise:
     "Give special importance or prominence to something in speaking or writing.",
   enclosure:
     "An area that is sealed off with an artificial or natural barrier.",
@@ -506,7 +505,7 @@ const wordSet = {
   entrance:
     "An opening, such as a door, passage, or gate, that allows access to a place.",
   entrepreneur:
-    "A person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so.",
+    "A person who organises and operates a business or businesses, taking on greater than normal financial risks in order to do so.",
   envelop: "Wrap up, cover, or surround completely.",
   envelope: "A flat paper container used to enclose a letter or document.",
   environment:
@@ -566,7 +565,7 @@ const wordSet = {
   feat: "An achievement that requires great courage, skill, or strength.",
   February: "The second month of the year in the Gregorian calendar.",
   feet: "The plural of foot, a unit of measurement; or the lower extremities of the human body.",
-  fiat: "A formal authorization or decree.",
+  fiat: "A formal authorisation or decree.",
   fictitious: "Not real or true; imaginary or fabricated.",
   fiery:
     "Consisting of fire or burning strongly; passionate or quick-tempered.",
@@ -602,7 +601,7 @@ const wordSet = {
   fright: "A sudden intense feeling of fear.",
   frightening: "Causing fear or alarm.",
   fuelling: "Providing fuel to something.",
-  fulfill: "Achieve or realize something desired, promised, or predicted.",
+  fulfill: "Achieve or realise something desired, promised, or predicted.",
   fundamental: "Forming a necessary base or core; of central importance.",
   fundamentally: "In a fundamental manner; essentially.",
   further: "To a greater distance or degree; additional.",
@@ -657,7 +656,7 @@ const wordSet = {
   heroine: "A woman admired for her courage or noble qualities.",
   hesitancy: "The quality of being hesitant; uncertainty.",
   hideous: "Extremely ugly or unpleasant.",
-  himself: "Reflexive form of he; used to emphasize the subject of a sentence.",
+  himself: "Reflexive form of he; used to emphasise the subject of a sentence.",
   hindrance: "A thing that provides resistance, delay, or obstruction.",
   hoarse: "Rough or harsh in sound, often due to illness or strain.",
   holiday:
@@ -741,7 +740,7 @@ const wordSet = {
   "it’s": "Contraction of 'it is' or 'it has'.",
   its: "Possessive form of 'it'.",
   itself:
-    "Reflexive form of 'it'; used to emphasize the subject of a sentence.",
+    "Reflexive form of 'it'; used to emphasise the subject of a sentence.",
   January: "The first month of the year in the Gregorian calendar.",
   jealous: "Feeling or showing envy of someone or their achievements.",
   jealousy: "The state of being envious of someone or their achievements.",
@@ -780,7 +779,7 @@ const wordSet = {
   length: "The measurement of something from end to end.",
   lesson: "A period of learning or teaching.",
   liaison:
-    "Communication or cooperation that facilitates a close working relationship between people or organizations.",
+    "Communication or cooperation that facilitates a close working relationship between people or organisations.",
   library:
     "A place where books, magazines, and other reading materials are available for people to use or borrow.",
   license:
@@ -817,7 +816,7 @@ const wordSet = {
   maneuver: "A movement or series of moves requiring skill and care.",
   manufacture: "Make something on a large scale using machinery.",
   marriage:
-    "The legally or formally recognized union of two people as partners in a personal relationship.",
+    "The legally or formally recognised union of two people as partners in a personal relationship.",
   married: "Joined in marriage; having a spouse.",
   marry: "Join together in marriage.",
   marshmallow:
@@ -983,7 +982,7 @@ const wordSet = {
   personal: "Relating to a particular person; private or individual.",
   personality:
     "The combination of characteristics or qualities that form an individual's distinctive character.",
-  personnel: "The people who work for an organization.",
+  personnel: "The people who work for an organisation.",
   perspiration: "The process of sweating; sweat.",
   persuade: "Convince someone to do or believe something.",
   persuasion:
@@ -998,7 +997,7 @@ const wordSet = {
   pilgrimage: "A journey to a sacred place or shrine.",
   pistachio: "A type of nut with a greenish kernel and a hard shell.",
   pitiful: "Deserving or arousing pity.",
-  plagiarize:
+  plagiarise:
     "Take the work or ideas of someone else and pass them off as one's own.",
   plain: "Simple or ordinary in character; not decorated.",
   plane: "A flat surface or a vehicle used for flying.",
@@ -1020,7 +1019,7 @@ const wordSet = {
   population: "The number of people living in a particular area or country.",
   portray: "Depict or represent something in a particular way.",
   portrayal: "The depiction or representation of someone or something.",
-  positive: "Characterized by certainty or assurance; favorable.",
+  positive: "Characterised by certainty or assurance; favorable.",
   possess: "Have or own something.",
   possession: "The state of having, owning, or controlling something.",
   possessive: "Showing ownership or possession.",
@@ -1049,7 +1048,7 @@ const wordSet = {
   prescription: "A written order for the preparation and use of a medicine.",
   presence: "The state or fact of existing or being present.",
   president:
-    "The elected head of a republican state or the leader of an organization.",
+    "The elected head of a republican state or the leader of an organisation.",
   presumptuous:
     "Failing to observe the limits of what is permitted or appropriate.",
   prevalent: "Widespread in a particular area or at a particular time.",
@@ -1087,7 +1086,7 @@ const wordSet = {
     "A person regarded as an inspired teacher or proclaimer of the will of God.",
   prospect: "The possibility or likelihood of some future event occurring.",
   psychiatrist:
-    "A medical doctor specializing in the diagnosis and treatment of mental illness.",
+    "A medical doctor specialising in the diagnosis and treatment of mental illness.",
   psychology: "The scientific study of the human mind and its functions.",
   publicly: "In a way that is open to or observable by all people.",
   puerile: "Childishly silly and trivial.",
@@ -1109,8 +1108,8 @@ const wordSet = {
   realistic:
     "Having or showing a sensible and practical idea of what can be achieved.",
   realistically: "In a way that is realistic; practically.",
-  realize: "Become fully aware of something as a fact.",
-  really: "Used to emphasize the truth or sincerity of a statement.",
+  realise: "Become fully aware of something as a fact.",
+  really: "Used to emphasise the truth or sincerity of a statement.",
   reason: "A cause or explanation for an event or action.",
   rebellion:
     "An act of violent or open resistance to an established government or ruler.",
@@ -1118,7 +1117,7 @@ const wordSet = {
   receipt: "A written acknowledgment of the receipt of goods or money.",
   receive: "Be given, presented with, or paid something.",
   recipe: "A set of instructions for preparing a particular dish.",
-  recognize:
+  recognise:
     "Identify someone or something from having encountered them before.",
   recommend: "Put forward (someone or something) with approval.",
   recuperate: "Recover after illness or exertion.",
@@ -1154,7 +1153,7 @@ const wordSet = {
   rheumatism:
     "A painful condition involving inflammation and stiffness of the muscles and joints.",
   rhythm: "A strong, regular, repeated pattern of movement or sound.",
-  rhythmical: "Characterized by a regular beat or rhythm.",
+  rhythmical: "Characterised by a regular beat or rhythm.",
   ridiculous: "Deserving or inviting derision or mockery.",
   right: "Morally good, justified, or acceptable.",
   role: "The function or part performed by someone or something.",
@@ -1189,7 +1188,7 @@ const wordSet = {
   season:
     "One of the four periods of the year (spring, summer, autumn, winter) or a specific period of the year for a particular activity.",
   secede:
-    "Withdraw formally from membership in a federal union, an alliance, or a political or religious organization.",
+    "Withdraw formally from membership in a federal union, an alliance, or a political or religious organisation.",
   secretary:
     "A person who is employed to manage records, correspondence, and appointments for another person.",
   seen: "Past participle of see; perceived with the eyes.",
@@ -1251,7 +1250,7 @@ const wordSet = {
   specimen: "An individual example or sample of a particular type or category.",
   speech: "The expression of thoughts and feelings through spoken language.",
   sponsor:
-    "A person or organization that provides funds or support for an activity or event.",
+    "A person or organisation that provides funds or support for an activity or event.",
   spontaneous:
     "Performed or occurring as a result of a sudden inner impulse or inclination and without premeditation.",
   stationary: "Not moving or not intended to be moved.",
@@ -1278,7 +1277,7 @@ const wordSet = {
     "Lower in rank or position; subject to the control or authority of another.",
   subpoena: "A legal document ordering someone to attend a court proceeding.",
   substantial: "Of considerable importance, size, or worth.",
-  subtle: "Delicate or precise as to be difficult to analyze or describe.",
+  subtle: "Delicate or precise as to be difficult to analyse or describe.",
   succeed: "Achieve the desired aim or result.",
   success: "The accomplishment of an aim or purpose.",
   successful: "Accomplishing an aim or purpose.",
@@ -1286,7 +1285,7 @@ const wordSet = {
   sudden: "Happening quickly and unexpectedly.",
   sufficient: "Adequate quantity, quality, or degree to meet the needs.",
   superintendent:
-    "A person who manages or oversees an organization or operation.",
+    "A person who manages or oversees an organisation or operation.",
   supersede:
     "Take the place of (a person or thing previously in authority or use).",
   suppress: "To put an end to the activities of (a group or person) by force.",
@@ -1312,7 +1311,7 @@ const wordSet = {
   tariff:
     "A tax or duty to be paid on a particular class of imports or exports.",
   technical:
-    "Relating to a particular subject or field, especially one requiring specialized knowledge.",
+    "Relating to a particular subject or field, especially one requiring specialised knowledge.",
   technique: "A method or way of doing something using special skills.",
   temperament:
     "A person's or animal's nature, especially as it permanently affects their behavior.",
@@ -1360,7 +1359,7 @@ const wordSet = {
   transferred: "Moved from one place to another.",
   transferring: "The process of moving from one place to another.",
   treasury:
-    "A place where funds are held and managed; the funds or assets of a state or organization.",
+    "A place where funds are held and managed; the funds or assets of a state or organisation.",
   tremendous: "Very great in amount, scale, or intensity.",
   tries: "Attempts or efforts to achieve or accomplish something.",
   truly: "In a truthful manner; genuinely.",
@@ -1379,7 +1378,7 @@ const wordSet = {
   useful: "Able to be used for a practical purpose or in several ways.",
   usual: "Habitual; customary; typical.",
   usually: "Under normal conditions; generally.",
-  utilization: "The action of making practical and effective use of something.",
+  utilisation: "The action of making practical and effective use of something.",
   vacuum:
     "A space entirely devoid of matter; a device for cleaning by suction.",
   valley:
@@ -1393,7 +1392,7 @@ const wordSet = {
   versatile:
     "Able to adapt or be adapted to many different functions or activities.",
   vicinity: "The area near or surrounding a particular place.",
-  vicious: "Deliberately cruel or violent; characterized by a violent nature.",
+  vicious: "Deliberately cruel or violent; characterised by a violent nature.",
   view: "The ability to see something or to be seen from a particular place; an opinion.",
   vigilant: "Keeping careful watch for possible danger or difficulties.",
   village:
@@ -1410,7 +1409,7 @@ const wordSet = {
     "The amount of space that a substance or object occupies; the level of sound.",
   waist: "The part of the body between the ribs and the hips.",
   warrant:
-    "A document issued by a legal or government authority authorizing the police to take certain actions.",
+    "A document issued by a legal or government authority authorising the police to take certain actions.",
   warrior: "A person engaged in or experienced in warfare; a soldier.",
   weak: "Lacking physical strength or energy; feeble.",
   weal: "A welt or a raised area on the skin; also refers to general well-being or prosperity.",
@@ -1451,3 +1450,5 @@ const wordSet = {
   Zeitgeist:
     "The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.",
 };
+
+export default wordSet;
