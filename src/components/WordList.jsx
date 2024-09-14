@@ -58,6 +58,14 @@ export default function WordList() {
     ]);
   };
 
+  // Reset the state to start the app again
+  const handleRestart = () => {
+    const selectedWords = getRandomWords(wordSet);
+    setRandomWords(selectedWords);
+    setCurrentWordIndex(0);
+    setAttempts([]);
+  };
+
   // Calculate results
   const correctAttempts = attempts.filter(
     (attempt) => attempt.isCorrect
@@ -84,6 +92,9 @@ export default function WordList() {
             ))}
           </ul>
         </div>
+        <button className="restart-button" onClick={handleRestart}>
+          Restart
+        </button>
       </div>
     );
   }
